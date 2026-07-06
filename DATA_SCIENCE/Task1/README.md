@@ -1,6 +1,6 @@
 # Task-1 🚢 Titanic Survival Prediction 🧑‍🚢
 
-> **CodSoft Machine Learning Internship | June Batch C5 ID:BY26RY204383**
+> **CodSoft Data Science Internship | June Batch C5 ID:BY26RY204383**
 > **Author : Yashwanth G S**  
 > **GitHub : https://github.com/Yashwanth18102004**
 
@@ -97,4 +97,4 @@ pandas | numpy | matplotlib | seaborn | scikit-learn | joblib
 
 **Yashwanth G S**  
 GitHub : https://github.com/Yashwanth18102004 
-Internship : CodSoft ML Internship | June Batch C5 ID:BY26RY204383
+Internship : CodSoft DS Internship | June Batch C5 ID:BY26RY204383
