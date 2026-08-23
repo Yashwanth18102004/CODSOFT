@@ -15,14 +15,15 @@ Complete a minimum of 3 tasks for the CodSoft **Power BI** virtual internship by
 
 ## ✅ Tasks Completed
 
-| Task | Title | Status |
-|---|---|---|
-| Task 1 | Sales Performance Dashboard | ✅ Completed |
-| Task 2 | Employee Performance Dashboard | ✅ Completed |
-| Task 4 | Customer Sales Dashboard | ✅ Completed |
-| Task 5 | Financial Health Dashboard | ✅ Completed |
+| Task | Title | File | Status |
+|---|---|---|---|
+| Task 1 | Sales Performance Dashboard | `Task1_Sales_Performance.pbix` | ✅ Completed |
+| Task 2 | Employee Performance Dashboard | `Task2_Employee_Performance.pbix` | ✅ Completed |
+| Task 3 | Student Performance Dashboard | `Task3_Student_Performance.pbix` | ✅ Completed |
+| Task 4 | Customer Sales Dashboard | `Task4_Customer_Analytics.pbix` | ✅ Completed |
+| Task 5 | Financial Health Dashboard | `Task5_Financial_Analytics.pbix` | ✅ Completed |
 
-*(Minimum of 3 tasks required for successful completion — 4 tasks completed here.)*
+*(Minimum of 3 tasks required for successful completion — all 5 tasks completed here.)*
 
 ---
 
@@ -51,6 +52,20 @@ Complete a minimum of 3 tasks for the CodSoft **Power BI** virtual internship by
 | Visuals | Clustered Bar Chart – Avg. Performance Score by Department & Reporting Period; Donut Chart – Employee Count by Department |
 | Slicers | Department, Designation |
 | Deliverable | Professional Power BI report with employee performance insights |
+
+---
+
+## 📂 Task 3: Student Performance Dashboard
+**Objective:** Help educational institutions analyze student academic performance and attendance.
+
+| Property | Detail |
+|---|---|
+| Data Table | `StudentData` |
+| Key Fields | Student ID, Student Name, Class, Subject, Marks, Attendance %, Grade, Academic Session |
+| KPI Cards | Total Students, Average Attendance %, Average Marks/Grade |
+| Visuals | Subject-wise and class-wise performance charts; topper list; grade distribution chart |
+| Slicers | Class, Subject, Academic Session |
+| Deliverable | Interactive dashboard supporting academic performance analysis |
 
 ---
 
@@ -100,8 +115,9 @@ Complete a minimum of 3 tasks for the CodSoft **Power BI** virtual internship by
 |---|---|
 | `Task1_Sales_Performance.pbix` | Sales performance dashboard |
 | `Task2_Employee_Performance.pbix` | Employee performance dashboard |
-| `Task4_Customer_Sales.pbix` | Customer sales dashboard |
-| `Task5_Financial_Health.pbix` | Financial health dashboard |
+| `Task3_Student_Performance.pbix` | Student performance dashboard |
+| `Task4_Customer_Analytics.pbix` | Customer sales dashboard |
+| `Task5_Financial_Analytics.pbix` | Financial health dashboard |
 | Screenshots | PNG exports of each dashboard page |
 
 ---
@@ -119,13 +135,14 @@ Complete a minimum of 3 tasks for the CodSoft **Power BI** virtual internship by
 - Interactive cross-filtering between visuals
 - Drill-through enabled for deeper analysis
 - Date hierarchy support (Year/Quarter/Month/Day)
-- Consistent, reusable design pattern across Sales, HR, Customer, and Finance domains
+- Consistent, reusable design pattern across Sales, HR, Academic, Customer, and Finance domains
 
 ---
 
 ## 📈 Key Results
 - Clear view of sales, profit, and units sold across products, categories, and regions
 - Department-wise employee performance and attendance tracking for HR analytics
+- Class and subject-wise student performance and attendance tracking for academic analysis
 - Customer segmentation by age group, gender, and region with purchase behavior insights
 - Consolidated view of financial health: revenue, profit, and cash flow trends by month
 
